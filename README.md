@@ -1,2 +1,1 @@
-# advanced-javascript-module
-Password-Generate
+# Generate Password
